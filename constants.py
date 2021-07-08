@@ -1,0 +1,5 @@
+JSON_PATH = './fyi_links.json'
+NETFLIX_SALARY_LINK = 'salary_link'
+RECENT_SALARY_XPATH = 'salary_xpath'
+RECENT_YOE_XPATH = 'yoe_xpath'
+RECENT_LEVEL_NAME_XPATH = 'level_xpath'
