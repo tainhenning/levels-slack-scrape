@@ -1,0 +1,6 @@
+{
+    "salary_link": "https://www.levels.fyi/company/Netflix/salaries/Software-Engineer/",
+    "salary_xpath": "//*[@id=\"compTable\"]/tbody/tr[1]/td[5]/div/div/span",
+    "yoe_xpath": "//*[@id=\"compTable\"]/tbody/tr[1]/td[4]/span",
+    "level_xpath": "//*[@id=\"compTable\"]/tbody/tr[1]/td[3]/span"
+}
